@@ -1,3 +1,3 @@
 # RenameScript
 
-A Windows batch script that goes through all files in the current directory and replaces all spaces with periods.
+A Windows batch script that goes through all files and/or folders in the current directory and renames them based on user input.
