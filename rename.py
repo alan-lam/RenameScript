@@ -1,5 +1,4 @@
 #! python3
-# rename.py - renames files by replacing spaces with periods
 
 import os
 
